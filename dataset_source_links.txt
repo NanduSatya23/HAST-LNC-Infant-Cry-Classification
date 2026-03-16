@@ -1,0 +1,7 @@
+Donate-a-Cry Infant Cry Corpus
+
+Kaggle Dataset Link:
+https://www.kaggle.com/datasets/bhoomikavalani/donateacrycorpusfeaturesdataset
+
+Description:
+This dataset contains infant cry audio recordings categorized into multiple cry types such as hungry, discomfort, tiredness, belly pain, and burping.
