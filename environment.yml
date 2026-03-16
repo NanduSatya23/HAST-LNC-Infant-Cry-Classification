@@ -1,0 +1,20 @@
+name: infant-cry-classification
+
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - librosa
+  - pytorch
+  - transformers
+  - pip
+  - pip:
+      - datasets
+      - soundfile
